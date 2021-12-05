@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Redoqx
-- 👀 I’m interested in Daedline
-- 🌱 I’m currently learning SQL,Python,PyQt5
+- 👀 I’m interested in Deadline
+- 🌱 I’m currently learning Javascript, React native, and Kotlin
 - 💞️ I’m looking to collaborate on MyTubes
-- 📫 How to reach me instagram.com/redoqx
+- 📫 How to reach me instagram.com/ridhoredoqx
 
 <!---
 Redoqx/Redoqx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
