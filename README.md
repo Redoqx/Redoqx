@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Redoqx
 - 👀 I’m interested in Deadline
-- 🌱 I’m currently learning Javascript, React native, and Kotlin
-- 💞️ I’m looking to collaborate on MyTubes
+- 🌱 I’m currently learning Javascript, React native, and of course c++
+<!-- - 💞️ I’m looking to collaborate on MyTubes -->
 - 📫 How to reach me instagram.com/ridhoredoqx
 
 <!---
